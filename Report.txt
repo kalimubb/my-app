@@ -1,4 +1,3 @@
 lets add more functional components now.
 <Card />
-<Main />
-<Footer />
+create login page
