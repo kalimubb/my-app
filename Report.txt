@@ -1,1 +1,4 @@
-just tracking changes of Card.js file right here
+lets add more functional components now.
+<Card />
+<Main />
+<Footer />
